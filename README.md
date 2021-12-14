@@ -9,4 +9,10 @@
 
 - goal : predict next month's volatility and find max-sharpe weights of portfolio at the predicted volatility
 - Train : 6 Months Close Price + Various technical indicators + Average Standard Deviation of portfolio
+  - BWI
+  - ATR
+  - Relative Volatility Index
+  - Standard Deviation
+  - Sigma
+  - True Range
 - Target : next month volatility of portfolio
