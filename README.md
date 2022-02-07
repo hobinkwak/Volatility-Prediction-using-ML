@@ -1,4 +1,4 @@
-# Volatility-Prediction-using-ML
+# Volatility Prediction using ML
 
 - Volatility Prediction using Voting Ensemble
   - Each Estimator's hyper parameters are optimized by Genetic Search
